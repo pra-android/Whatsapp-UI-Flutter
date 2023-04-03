@@ -1,16 +1,41 @@
-# whatsappui
+# Flutter UI Challenge
 
-A new Flutter project.
+## Descriptions:
+It is the Flutter UI Challenge repositoires which can be done by beginner flutter developer which enhances their User Interface Prototype.The code can be run on both andoird and IOS.
 
-## Getting Started
+### Widgets Used:
+- Row
+- AppBar
+- Scaffold
+- Column
+- Container
+- Bottom Navigation Bar
+- ListTile
+- Card
+- CircleAvatar
+- ListView/ListView.builder
+- GridView/GridView.builder
+- Slivers
+- Sliver To Box Adaptor
 
-This project is a starting point for a Flutter application.
+#### Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+-Whatsapp UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<div class="wato">
+<img src="![w3](https://user-images.githubusercontent.com/82046769/229444778-0123b00f-045d-402d-a0b7-e52e8a8656d6.jpg)" width="150" height="250">
+<img src="![w2](https://user-images.githubusercontent.com/82046769/229445276-0ede3efc-6992-4bfb-8eac-8a378f9472c4.jpg)" width="150" height="250">
+<img src="![W1](https://user-images.githubusercontent.com/82046769/229445371-7671c4f3-6403-405a-8f91-327bac86282e.jpg)" width="150" height="250">
+</div>
+
+
+
+
+
+
+
+
+
+
