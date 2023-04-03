@@ -1,7 +1,7 @@
-# Flutter UI Challenge
+# WHATSAPP UI DESIGN
 
 ## Descriptions:
-It is the Flutter UI Challenge repositoires which can be done by beginner flutter developer which enhances their User Interface Prototype.The code can be run on both andoird and IOS.
+It is the Whatsapp UI design repositoires which can be done by beginner flutter developer which enhances their User Interface Prototype.The code can be run on both andoird and IOS.
 
 ### Widgets Used:
 - Row
