@@ -25,9 +25,9 @@ It is the Flutter UI Challenge repositoires which can be done by beginner flutte
 
 
 <div class="wato">
-<img src="![w3](https://user-images.githubusercontent.com/82046769/229444778-0123b00f-045d-402d-a0b7-e52e8a8656d6.jpg)" width="150" height="250">
-<img src="![w2](https://user-images.githubusercontent.com/82046769/229445276-0ede3efc-6992-4bfb-8eac-8a378f9472c4.jpg)" width="150" height="250">
-<img src="![W1](https://user-images.githubusercontent.com/82046769/229445371-7671c4f3-6403-405a-8f91-327bac86282e.jpg)" width="150" height="250">
+<img src="https://user-images.githubusercontent.com/82046769/229444778-0123b00f-045d-402d-a0b7-e52e8a8656d6.jpg" width="200" height="375">
+<img src="https://user-images.githubusercontent.com/82046769/229445276-0ede3efc-6992-4bfb-8eac-8a378f9472c4.jpg" width="200" height="375">
+<img src="https://user-images.githubusercontent.com/82046769/229445371-7671c4f3-6403-405a-8f91-327bac86282e.jpg" width="200" height="375">
 </div>
 
 
